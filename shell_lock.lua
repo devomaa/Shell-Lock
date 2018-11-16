@@ -1,4 +1,5 @@
-
+--Over the course of the next few days I will be going through this and cleaning/commenting it.
+--This is not the final version
 
 oldEvent = os.pullEvent
 os.pullEvent = os.pullEventRaw --no terminate rEEEEEE
